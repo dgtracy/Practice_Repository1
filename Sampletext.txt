@@ -1,1 +1,5 @@
 Here is a sample text file for GitHub.
+
+# A Heading
+
+Some more text.
